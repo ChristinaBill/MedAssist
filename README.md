@@ -15,5 +15,7 @@ Through this project:
 
 Sign In:
 	Nurse - SamuelAraya sesame
-		    - JohnSmith sesame
+		 - JohnSmith sesame
 	Admin - DavidAbreham sesame
+
+SQL Script is in DB folder.
